@@ -1,2 +1,4 @@
 /* Add styles here */
 h1{color:bisque;}
+p{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color:blueviolet;}
+button{background-color: aliceblue;border-color: azure; border-radius: 20dvh;}
